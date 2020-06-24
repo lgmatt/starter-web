@@ -7,5 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 adding this line 
 
+## How to contribute
+please bla bla bla
+
 ### Copyright
 git copyright
