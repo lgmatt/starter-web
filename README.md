@@ -12,3 +12,6 @@ please bla bla bla
 
 ### Copyright
 git copyright
+
+### Rebasing
+How to
